@@ -11,5 +11,6 @@ public class PhilTest {
         System.out.println("hell,word!phil");
         System.out.println("hello");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
