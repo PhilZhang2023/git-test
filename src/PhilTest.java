@@ -14,5 +14,6 @@ public class PhilTest {
         System.out.println("hot-fix test1");
         System.out.println("pull test1");
         System.out.println("push test");
+        System.out.println("gitee test");
     }
 }
